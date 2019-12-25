@@ -1,0 +1,18 @@
+.post {
+  margin: 1rem 0;
+
+  a {
+    background: #f4f4f4;
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 1rem;
+  }
+  a:hover {
+    background: #e4e4e4;
+  }
+  p {
+    display: block;
+    padding: 0 1rem;
+  }
+}
