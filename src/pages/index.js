@@ -9,9 +9,9 @@ const IndexPage = () => {
       <Head title="Home" />
       <h1>Hello</h1>
       <h2>I'm Tamal, a full-stack developer living in Pune, India. </h2>
-      <p>
+      {/* <p>
         Need A developer? <Link to="/contact">Contact Me</Link>
-      </p>
+      </p> */}
     </Layout>
   );
 };
